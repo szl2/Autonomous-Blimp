@@ -58,7 +58,7 @@ conda install pip
 
 - If using Pycharm, at the very beginning, create a virtual environment
 
-![](\Figs\fig1.png)
+![](./images/fig1.png)
 
 ### Step 3:
 
@@ -93,7 +93,7 @@ There are two files about main code:
 
 ### Flowchart
 
-![](\Figs\flowchart_old.png)
+![](./images/flowchart_old.png)
 
 ### System I/O (old)
 
